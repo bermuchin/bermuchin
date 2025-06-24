@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @bermuchin
-- 👀 I’m interested in football, especially EPL
-- 🌱 I’m currently learning Java threading ans Android
-- 💞️ I’m looking to collaborate on PL website creator
 - 📫 How to reach me call me 010-..
 
 <!---
