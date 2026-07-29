@@ -21,7 +21,7 @@
 
 ---
 
-# About Me
+## About Me
 
 I am interested in understanding how artificial intelligence can model **human physiological and neural signals**.
 My current research focuses on learning meaningful representations from noisy biosignals, ranging from **photoplethysmography (PPG)** to **functional brain networks**.
@@ -61,7 +61,7 @@ A curated repository of Graph Neural Network papers with taxonomy and resources.
 
 ---
 
-# Contact
+## Contact
 
 - Email : bumjin.kim73@gmail.com
 - LinkedIn : https://www.linkedin.com/in/bumjinkim73/
