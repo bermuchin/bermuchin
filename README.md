@@ -58,7 +58,7 @@ A curated repository of Graph Neural Network papers with taxonomy and resources.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,pytorch,pycortex,tensorflow,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,pytorch,tensorflow,git,linux" />
 </p>
 
 ---
