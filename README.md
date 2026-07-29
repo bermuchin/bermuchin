@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Bumjin Kim</h1>
+<h1 align="center">Hi, I'm Beomjin Kim</h1>
 
 <p align="center">
   <b>Undergraduate Researcher</b><br>
@@ -20,10 +20,6 @@
 </a>
 
 </p>
-
----
-
-> *"I believe AI should not only predict biological signals, but also help us understand how information is represented in the human brain and body."*
 
 ---
 
@@ -49,26 +45,6 @@ Ultimately, I hope to build AI systems that not only make accurate predictions b
 
 ---
 
-# Research Map
-
-```text
-                     Human Intelligence
-                             ▲
-                             │
-                    Representation Learning
-                             ▲
-              ┌──────────────┴──────────────┐
-              │                             │
-      Brain Networks                  Biosignals
-         (fMRI, EEG)                  (PPG, ECG)
-              │                             │
-              └──────────────┬──────────────┘
-                             │
-                    Human-centered AI
-```
-
----
-
 # Featured Projects
 
 | Project | Description |
@@ -77,36 +53,6 @@ Ultimately, I hope to build AI systems that not only make accurate predictions b
 | ❤️ PPG Peak Detection | Deep learning for robust systolic peak detection |
 | 📚 awesome-GNN-papers | Curated Graph Neural Network paper collection |
 | 🔬 Medical AI | Clinical decision support systems |
-
----
-
-# Publications
-
-## Conference
-
-- ACM SIGKDD Undergraduate Consortium 2026
-    - **Scaffold-GAT: Grounding Brain Dynamics in Neural Anatomy**
-
----
-
-# Open Source
-
-Contributions to open-source machine learning libraries.
-
-- Feature-engine
-    - Datetime Transformer
-
----
-
-# Currently Exploring
-
-- Computational Neuroscience
-
-- Brain Representation Learning
-
-- Biosignal Foundation Models
-
-- Geometric Deep Learning
 
 ---
 
@@ -140,30 +86,7 @@ Contributions to open-source machine learning libraries.
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bermuchin&show_icons=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuchin&layout=compact"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bermuchin"/>
-
-</p>
-
----
-
 # Contact
 
-📧 Email : bumjin.kim73@gmail.com
-
-📚 Google Scholar
+- Email : bumjin.kim73@gmail.com
+- LinkedIn : https://www.linkedin.com/in/bumjinkim73/
