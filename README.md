@@ -69,38 +69,6 @@ Ultimately, I hope to build AI systems that not only make accurate predictions b
 
 ---
 
-# Current Research
-
-### 🧠 Brain Network Analysis
-
-Learning anatomically grounded representations for functional brain connectivity.
-
----
-
-### ❤️ Robust PPG Peak Detection
-
-Peak detection under noisy wearable environments.
-
-Current interest:
-
-- Motion artifacts
-- Arrhythmia-aware learning
-- Signal representation
-
----
-
-### 📈 Graph Representation Learning
-
-Representation learning on non-Euclidean biomedical data.
-
-Topics include
-
-- Graph Neural Networks
-- Geometric Deep Learning
-- Multiplex Graphs
-
----
-
 # Featured Projects
 
 | Project | Description |
