@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Beomjin Kim</p>
+<p align="center">**Hi, I'm Beomjin Kim**</p>
 
 <p align="center">
   <b>Undergraduate Researcher</b><br>
