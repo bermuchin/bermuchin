@@ -31,10 +31,9 @@ Ultimately, I hope to build AI systems that not only make accurate predictions b
 
 ## Research Interests
 
-🧠 Brain Computer Interface  
-❤️ Biosignal Analysis (PPG · ECG)  
-📈 Graph Representation Learning  
-🔬 Medical AI
+- Brain Computer Interface  
+- Biosignal Analysis (PPG · ECG)  
+- Graph Representation Learning
 
 ---
 
@@ -47,10 +46,6 @@ Learning anatomically grounded graph representations for functional brain networ
 ### ❤️ Robust PPG Peak Detection
 
 Developing deep learning methods for systolic peak detection under noisy wearable environments.
-
-### 📚 awesome-GNN-papers
-
-A curated repository of Graph Neural Network papers with taxonomy and resources.
 
 ---
 ## Tech Stack
