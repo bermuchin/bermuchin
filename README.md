@@ -118,23 +118,17 @@ Contributions to open-source machine learning libraries.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
-
 ### AI
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
----
-
 ### Data
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
----
 
 ### Tools
 
@@ -150,9 +144,9 @@ Contributions to open-source machine learning libraries.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bermuchin&show_icons=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuchin&layout=compact"/>
 
 </p>
 
@@ -162,7 +156,7 @@ Contributions to open-source machine learning libraries.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bermuchin"/>
 
 </p>
 
