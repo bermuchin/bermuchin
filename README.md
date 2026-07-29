@@ -24,16 +24,8 @@
 ## About Me
 
 I am interested in understanding how artificial intelligence can model **human physiological and neural signals**.
-My current research focuses on learning meaningful representations from noisy biosignals, ranging from **photoplethysmography (PPG)** to **functional brain networks**.
-Ultimately, I hope to build AI systems that not only make accurate predictions but also reveal **how biological information is represented.**
-
----
-
-## Research Interests
-
-- Brain Computer Interface  
-- Biosignal Analysis (PPG · ECG)  
-- Graph Representation Learning
+<br>My current research focuses on learning meaningful representations from noisy biosignals, ranging from **photoplethysmography (PPG)** to **functional brain networks**.
+<br>Ultimately, I hope to build AI systems that not only make accurate predictions but also reveal **how biological information is represented.**
 
 ---
 
