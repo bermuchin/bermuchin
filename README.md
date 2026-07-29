@@ -164,8 +164,6 @@ Contributions to open-source machine learning libraries.
 
 # Contact
 
-📧 Email
+📧 Email : bumjin.kim73@gmail.com
 
 📚 Google Scholar
-
-🌐 Personal Website (Coming Soon)
