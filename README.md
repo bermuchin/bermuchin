@@ -50,5 +50,5 @@ Developing deep learning methods for systolic peak detection under noisy wearabl
 
 ## Contact
 
-- Email : bumjin.kim73@gmail.com
-- LinkedIn : https://www.linkedin.com/in/bumjinkim73/
+- Email : beomjin@kaist.ac.kr
+- LinkedIn : https://www.linkedin.com/in/beomjinkim73/
